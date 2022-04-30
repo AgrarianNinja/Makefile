@@ -1,4 +1,5 @@
 # Makefile Template
+<https://github.com/AgrarianNinja/Makefile>
 ## Description
 
 Simple generic Makefile for Linux based C++ projects. This is the Makefile template I use at the start of my C++ projects, please modify to suit your purposes.
